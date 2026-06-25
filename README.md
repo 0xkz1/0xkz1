@@ -5,7 +5,7 @@
 
 </div>
 
-Artist, Creative Technologist, and AI Systems Builder.
+Artist, Builder of Systems, and Creative Technologist.
 
 I work at the intersection of visual storytelling, knowledge management, and automation.
 
