@@ -1,33 +1,7 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3800&pause=800&color=2F81F7&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Kazuki+%F0%9F%91%8B;0xkz1+%7C+%E9%96%80%E2%86%92%E7%90%86%E2%86%92%E7%82%AC%E2%86%92%E5%92%8F;Self-Hosting+%26+LLM+Builder;AI+%C3%97+Creative+Coding" alt="Typing SVG" />
-</div>
+## Kazuki Yunome
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=0xkz1&color=2F81F7&style=flat-square" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/0xkz1?label=follow&logo=github&style=flat-square&color=2F81F7" alt="GitHub followers" />
-  <a href="https://qiita.com/0xkz1">
-    <img src="https://qiita-badge.apiapi.app/s/0xkz1/posts.svg" alt="Qiita posts" />
-  </a>
-</p>
-
----
-
-## 🧭 Who Am I
-
-**Kazuki Yunome** — Self-hosted AI stack operator, LLM enthusiast, and creative coder.  
-Building **Hermes Agent** ecosystem with a team of specialized AI agents across 9 profiles.
-
-| Profile | Name | Role |
-|---------|------|------|
-| 🚪 | **門 (Món)** | Router — entry point |
-| 🧠 | **理 (Satori)** | Strategist — architecture & planning |
-| 🔧 | **灯 (Tō)** | Builder — implementation |
-| 🎤 | **詠 (Ei)** | Writer — content & documentation |
-| 🔬 | **映 (Ying)** | Researcher — investigation & analysis |
-| 🎨 | **校 (Xiào)** | Visualizer — graphic & UI |
-| 📢 | **宣 (Xuān)** | Publisher — release & deploy |
-| ✅ | **校 (Xiào)** | Review Editor — quality gate |
-| 📖 | **栞 (Shiori)** | Archivist — memory & records |
+Self-hosted AI stack operator, LLM enthusiast, and creative coder.  
+Building autonomous AI workflows from Japan.
 
 ---
 
@@ -78,43 +52,3 @@ Building **Hermes Agent** ecosystem with a team of specialized AI agents across 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=0xkz1&theme=tokyonight&no-frame=true&column=7" alt="Trophy" />
 </div>
-
----
-
-## 🐍 Contribution Snake
-
-![Snake animation](https://raw.githubusercontent.com/0xkz1/0xkz1/output/github-contribution-grid-snake-dark.svg)
-
----
-
-## 🌟 Notable Projects
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [**Hermes Agent**](https://github.com/0xkz1/hermes) | Multi-profile AI agent ecosystem | Python, MCP, LLM |
-| [**AssetWeaver**](https://github.com/0xkz1/obsidian-asset-weaver) | AI-powered Obsidian image gallery pipeline | Python, Obsidian, VLM |
-| [**Open Design**](https://github.com/0xkz1/open-design) | Design toolkit — 16 CLIs, 132 skills, 150 design systems | TypeScript, Figma alt |
-| [**kanban-codex-lane**](https://github.com/0xkz1/kanban-codex-lane) | AI coding agent for Hermes Kanban | Python, Codex CLI |
-
----
-
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
----
-
-## 🌐 Connect
-
-<p align="center">
-  <a href="https://qiita.com/0xkz1">
-    <img src="https://img.shields.io/badge/Qiita-55C500?style=for-the-badge&logo=qiita&logoColor=white" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=500&color=2F81F7&center=true&vCenter=true&width=435&lines=Building+autonomous+AI+workflows;Self-hosting+the+future;Code+is+poetry+%E2%9C%A8" alt="Footer typing" />
-</p>
