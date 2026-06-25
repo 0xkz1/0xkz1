@@ -1,37 +1,23 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="520" height="120">
-  <style>
-    @keyframes fade {
-      0%, 18% { opacity: 1; }
-      22%, 100% { opacity: 0; }
-    }
-    text {
-      font-family: 'Fira Code', 'Cascadia Code', monospace;
-      font-weight: 600;
-      font-size: 24px;
-    }
-    .l0 { opacity: 0; animation: fade 10s infinite; }
-    .l1 { opacity: 0; animation: fade 10s infinite; animation-delay: 2s; }
-    .l2 { opacity: 0; animation: fade 10s infinite; animation-delay: 4s; }
-    .l3 { opacity: 0; animation: fade 10s infinite; animation-delay: 6s; }
-    .l4 { opacity: 0; animation: fade 10s infinite; animation-delay: 8s; }
-    .sub { font-size: 14px; font-weight: 400; }
-  </style>
-
-  <!-- 0xkz1 — blue -->
-  <text x="260" y="55" text-anchor="middle" fill="#2563eb" class="l0">🖥️ 0xkz1</text>
-
-  <!-- Creative Technologist — purple -->
-  <text x="260" y="55" text-anchor="middle" fill="#a78bfa" class="l1">🜪 Creative Technologist</text>
-
-  <!-- AI Agent Orchestrator — gold (Hermes) -->
-  <text x="260" y="55" text-anchor="middle" fill="#f0c040" class="l2">⚡ AI Agent Orchestrator</text>
-
-  <!-- Feral — cyan with subtitle -->
-  <g class="l3">
-    <text x="260" y="48" text-anchor="middle" fill="#06b6d4">🐍 Feral</text>
-    <text x="260" y="68" text-anchor="middle" fill="#06b6d4" class="sub">worlds in collapse</text>
+  <text x="260" y="55" text-anchor="middle" fill="#2563eb" font-family="'Fira Code','Cascadia Code',monospace" font-weight="600" font-size="24px">
+    🖥️ 0xkz1
+    <animate attributeName="opacity" values="1;1;0;0;0;0;0;0" keyTimes="0;0.18;0.22;0.3;0.5;0.7;0.85;1" dur="10s" repeatCount="indefinite" />
+  </text>
+  <text x="260" y="55" text-anchor="middle" fill="#a78bfa" font-family="'Fira Code','Cascadia Code',monospace" font-weight="600" font-size="24px">
+    🜪 Creative Technologist
+    <animate attributeName="opacity" values="0;0;0;1;1;0;0;0" keyTimes="0;0.18;0.22;0.3;0.5;0.52;0.7;1" dur="10s" repeatCount="indefinite" />
+  </text>
+  <text x="260" y="55" text-anchor="middle" fill="#f0c040" font-family="'Fira Code','Cascadia Code',monospace" font-weight="600" font-size="24px">
+    ⚡ AI Agent Orchestrator
+    <animate attributeName="opacity" values="0;0;0;0;0;1;1;0" keyTimes="0;0.18;0.3;0.5;0.52;0.6;0.8;1" dur="10s" repeatCount="indefinite" />
+  </text>
+  <g>
+    <animate attributeName="opacity" values="0;0;0;0;0;0;0;1;1;0" keyTimes="0;0.18;0.3;0.5;0.6;0.72;0.78;0.84;0.95;1" dur="10s" repeatCount="indefinite" />
+    <text x="260" y="48" text-anchor="middle" fill="#06b6d4" font-family="'Fira Code','Cascadia Code',monospace" font-weight="600" font-size="24px">🐍 Feral</text>
+    <text x="260" y="68" text-anchor="middle" fill="#06b6d4" font-family="'Fira Code','Cascadia Code',monospace" font-weight="400" font-size="14px">worlds in collapse</text>
   </g>
-
-  <!-- Artist & Photographer — magenta -->
-  <text x="260" y="55" text-anchor="middle" fill="#ec4899" class="l4">📷 Artist &amp; Photographer</text>
+  <text x="260" y="55" text-anchor="middle" fill="#ec4899" font-family="'Fira Code','Cascadia Code',monospace" font-weight="600" font-size="24px">
+    📷 Artist &amp; Photographer
+    <animate attributeName="opacity" values="0;0;0;0;0;0;0;0;0;1" keyTimes="0;0.18;0.3;0.5;0.6;0.7;0.78;0.84;0.92;1" dur="10s" repeatCount="indefinite" />
+  </text>
 </svg>
