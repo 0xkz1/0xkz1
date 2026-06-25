@@ -1,11 +1,4 @@
-<div align="center">
-
-<!-- Typing animation with per-line colors (custom inline SVG) -->
-<img src="assets/header.svg" alt="Typing header" height="120" />
-
-</div>
-
-Artist, Builder of Systems, and Creative Technologist.
+Systems Builder, Creative Technologist, and Artist.
 
 I work at the intersection of visual storytelling, knowledge management, and automation.
 
@@ -18,4 +11,4 @@ Currently building:
 
 My background spans digital painting, 3D environments, Python scripting, Linux infrastructure, and generative AI.
 
-Outside of technology, I'm developing *Feral*, a long-term art and storytelling project exploring animals, disasters, conflict, and environmental collapse.
+I'm also developing *Feral*, a long-term art and storytelling project exploring animals, disasters, conflict, and environmental collapse.
