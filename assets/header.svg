@@ -1,28 +1,28 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="520" height="120">
   <!-- 0s-2s: 0xkz1 — monochrome -->
-  <text opacity="0" x="260" y="55" text-anchor="middle" fill="#555555" font-family="'Fira Code','Cascadia Code',monospace" font-weight="600" font-size="24px">
+  <text fill-opacity="0" x="260" y="55" text-anchor="middle" fill="#555555" font-family="'Fira Code','Cascadia Code',monospace" font-weight="600" font-size="24px">
     0xkz1
-    <animate attributeName="opacity" values="1;1;0;0;0;0;0;0;0;0" keyTimes="0;0.19;0.2;0.39;0.4;0.59;0.6;0.79;0.8;1" dur="10s" repeatCount="indefinite" />
+    <animate attributeName="fill-opacity" values="1;1;0;0;0;0;0;0;0;0" keyTimes="0;0.19;0.2;0.39;0.4;0.59;0.6;0.79;0.8;1" dur="10s" repeatCount="indefinite" />
   </text>
   <!-- 2s-4s: Creative Technologist — purple -->
-  <text opacity="0" x="260" y="55" text-anchor="middle" fill="#a78bfa" font-family="'Fira Code','Cascadia Code',monospace" font-weight="600" font-size="24px">
+  <text fill-opacity="0" x="260" y="55" text-anchor="middle" fill="#a78bfa" font-family="'Fira Code','Cascadia Code',monospace" font-weight="600" font-size="24px">
     Creative Technologist
-    <animate attributeName="opacity" values="0;0;0;1;1;0;0;0;0;0" keyTimes="0;0.19;0.2;0.39;0.4;0.59;0.6;0.79;0.8;1" dur="10s" repeatCount="indefinite" />
+    <animate attributeName="fill-opacity" values="0;0;0;1;1;0;0;0;0;0" keyTimes="0;0.19;0.2;0.39;0.4;0.59;0.6;0.79;0.8;1" dur="10s" repeatCount="indefinite" />
   </text>
   <!-- 4s-6s: AI Agent Orchestrator — gold -->
-  <text opacity="0" x="260" y="55" text-anchor="middle" fill="#f0c040" font-family="'Fira Code','Cascadia Code',monospace" font-weight="600" font-size="24px">
+  <text fill-opacity="0" x="260" y="55" text-anchor="middle" fill="#f0c040" font-family="'Fira Code','Cascadia Code',monospace" font-weight="600" font-size="24px">
     AI Agent Orchestrator
-    <animate attributeName="opacity" values="0;0;0;0;0;1;1;0;0;0" keyTimes="0;0.19;0.2;0.39;0.4;0.59;0.6;0.79;0.8;1" dur="10s" repeatCount="indefinite" />
+    <animate attributeName="fill-opacity" values="0;0;0;0;0;1;1;0;0;0" keyTimes="0;0.19;0.2;0.39;0.4;0.59;0.6;0.79;0.8;1" dur="10s" repeatCount="indefinite" />
   </text>
   <!-- 6s-8s: Feral — cyan + subtitle -->
-  <g opacity="0">
-    <animate attributeName="opacity" values="0;0;0;0;0;0;0;1;1;0" keyTimes="0;0.19;0.2;0.39;0.4;0.59;0.6;0.79;0.8;1" dur="10s" repeatCount="indefinite" />
+  <g fill-opacity="0">
+    <animate attributeName="fill-opacity" values="0;0;0;0;0;0;0;1;1;0" keyTimes="0;0.19;0.2;0.39;0.4;0.59;0.6;0.79;0.8;1" dur="10s" repeatCount="indefinite" />
     <text x="260" y="48" text-anchor="middle" fill="#06b6d4" font-family="'Fira Code','Cascadia Code',monospace" font-weight="600" font-size="24px">Feral</text>
     <text x="260" y="68" text-anchor="middle" fill="#06b6d4" font-family="'Fira Code','Cascadia Code',monospace" font-weight="400" font-size="14px">worlds in collapse</text>
   </g>
   <!-- 8s-10s: Artist & Photographer — magenta -->
-  <text opacity="0" x="260" y="55" text-anchor="middle" fill="#ec4899" font-family="'Fira Code','Cascadia Code',monospace" font-weight="600" font-size="24px">
+  <text fill-opacity="0" x="260" y="55" text-anchor="middle" fill="#ec4899" font-family="'Fira Code','Cascadia Code',monospace" font-weight="600" font-size="24px">
     Artist &amp; Photographer
-    <animate attributeName="opacity" values="0;0;0;0;0;0;0;0;0;1" keyTimes="0;0.19;0.2;0.39;0.4;0.59;0.6;0.79;0.8;1" dur="10s" repeatCount="indefinite" />
+    <animate attributeName="fill-opacity" values="0;0;0;0;0;0;0;0;0;1" keyTimes="0;0.19;0.2;0.39;0.4;0.59;0.6;0.79;0.8;1" dur="10s" repeatCount="indefinite" />
   </text>
 </svg>
