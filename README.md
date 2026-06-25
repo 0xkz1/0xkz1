@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3800&pause=800&color=2F81F7&center=true&vCenter=true&width=435&lines=Kazuki+Yunome;0xkz1;Self-Hosting+%26+LLM+Builder;AI+%C3%97+Creative+Coding" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3800&pause=800&color=2F81F7&center=true&vCenter=true&width=435&lines=0xkz1;Creative+Technologist;AI+Agent+Orchestrator;Local+AI+Builder;Feral+%E2%80%94+Art+%26+Storytelling" alt="Typing SVG" />
 </div>
 
-Self-hosted AI stack operator, LLM enthusiast, and creative coder.  
-Building autonomous AI workflows from Japan.
+Artist, Creative Technologist, and AI Systems Builder.  
+Working at the intersection of visual storytelling, knowledge management, and automation.
 
 ---
 
