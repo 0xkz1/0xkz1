@@ -9,11 +9,11 @@
       font-weight: 600;
       font-size: 24px;
     }
-    .l0 { animation: fade 10s infinite; }
-    .l1 { animation: fade 10s infinite; animation-delay: 2s; }
-    .l2 { animation: fade 10s infinite; animation-delay: 4s; }
-    .l3 { animation: fade 10s infinite; animation-delay: 6s; }
-    .l4 { animation: fade 10s infinite; animation-delay: 8s; }
+    .l0 { opacity: 0; animation: fade 10s infinite; }
+    .l1 { opacity: 0; animation: fade 10s infinite; animation-delay: 2s; }
+    .l2 { opacity: 0; animation: fade 10s infinite; animation-delay: 4s; }
+    .l3 { opacity: 0; animation: fade 10s infinite; animation-delay: 6s; }
+    .l4 { opacity: 0; animation: fade 10s infinite; animation-delay: 8s; }
     .sub { font-size: 14px; font-weight: 400; }
   </style>
 
